@@ -31,4 +31,6 @@ You can also find me on other sites:
 [<img src="https://www.freepngimg.com/download/facebook/64896-media-computer-icons-logo-of-embassy-facebook.png" width="30" height="30">](https://www.facebook.com/DuDiiCc/)
 [<img src="https://i.stack.imgur.com/CE5lz.png" width="30" height="30">](https://stackoverflow.com/users/8653765/m-dudek)
 
- 
+
+Visitor count:  
+![Visitor Count](https://profile-counter.glitch.me/DuDiiC/count.svg)
