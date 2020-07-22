@@ -13,6 +13,7 @@ Currently, the sixth semester at the University of Nicholas Copernicus Universit
 |:---:|:--:|:--:|:--:|:--:|:--:|:--:|
 | __main__ | Java | <img src="https://freepngimg.com/download/java/3-2-java-free-download-png.png" height="50"/> | Spring | <img src="https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico" height="50" /> | GIT | <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/git-icon.png?itok=w7zB9vuE" height="50" /> |
 | __addicional__ | React.js | <img src="https://miro.medium.com/fit/c/184/184/1*K0a7xINk0RM5gfXGSN68cw.png" height="50" /> | C++ | <img src="https://piyotr.com/images/svg/cpp_icon.svg" height="50" /> | Python | <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" width="50" /> |
+|     |    |    |    |    |    |    |
 
 ## Most important projects:
 
@@ -23,7 +24,7 @@ You can see full presentation (in Polish) [here](https://www.youtube.com/watch?v
 
 ### Web notes
 A small project, presenting my skills in programming in Java and Spring.  
-More details in the repositories: [back-end](https://github.com/DuDiiC/web-notes) and [front-end (coming soon)](https://github.com/DuDiiC/web-notes-front).
+More details in the repositories: [back-end](https://github.com/DuDiiC/web-notes) and [front-end](https://github.com/DuDiiC/web-notes-front).
 
 You can also find me on other sites:
 
