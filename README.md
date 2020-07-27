@@ -1,6 +1,8 @@
 # Maciej Dudek
 ### ✔ Java/Back-end developer ✔ UMK student ✔ programming enthusiast
 
+![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
+
 #### Programmer
 I have been learning programming on my own for over three years. I started with C ++, but during my studies I also got to know C and Python, but currently my main programming language is Java and the Spring platform. In addition to typical back-end applications, I also tried programming for the android platform in Java and React.js on the front-end.
 
