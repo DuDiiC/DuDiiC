@@ -1,7 +1,5 @@
 # Maciej Dudek
-### ✔ Java/Back-end developer  
-### ✔ UMK student  
-### ✔ programming enthusiast
+### 💻 Java/Back-end developer 🎓 UMK student ⭐ programming enthusiast
 
 ![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
 
