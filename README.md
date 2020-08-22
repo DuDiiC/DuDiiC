@@ -4,10 +4,16 @@
 ![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
 
 #### Programmer
-I have been learning programming on my own for over three years. I started with C ++, but during my studies I also got to know C and Python, but currently my main programming language is Java and the Spring platform. In addition to typical back-end applications, I also tried programming for the android platform in Java and React.js on the front-end.
+
+I started my adventure with programming about half a year earlier than my studies. Since then, I have been developing my skills, especially in technologies related to Java, Spring and OOP in general, but I tried many other technologies too. I started with C ++, but during my studies I also got to know C and Python. In addition to typical back-end applications, I also tried programming for the android platform in Java and React.js on the front-end. 
+
+I am interested in further development in this field and practical learning. I belive that programming, clean code writing and logical thinking are technology-independent skills. 
 
 #### Student
+
 Currently, the sixth semester at the University of Nicholas Copernicus University in Toruń, majoring in computer science. Many of the repositories show my work in college.
+
+I am working on an engineering thesis on predicting the future of projects on the GitHub platform.
 
 ### My technologies:  
 
@@ -33,7 +39,3 @@ You can also find me on other sites:
 [<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" width="30" height="30">](https://www.linkedin.com/in/maciejdudek96/)
 [<img src="https://www.freepngimg.com/download/facebook/64896-media-computer-icons-logo-of-embassy-facebook.png" width="30" height="30">](https://www.facebook.com/DuDiiCc/)
 [<img src="https://i.stack.imgur.com/CE5lz.png" width="30" height="30">](https://stackoverflow.com/users/8653765/m-dudek)
-
-
-Visitor count:  
-![Visitor Count](https://profile-counter.glitch.me/DuDiiC/count.svg)
