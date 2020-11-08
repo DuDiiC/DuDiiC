@@ -19,7 +19,7 @@ I am working on an engineering thesis on predicting the future of projects on th
 
 |     |    |    |    |    |    |    |
 |:---:|:--:|:--:|:--:|:--:|:--:|:--:|
-| __main__ | Java | <img src="https://freepngimg.com/download/java/3-2-java-free-download-png.png" height="50"/> | Spring | <img src="https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico" height="50" /> | GIT | <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/git-icon.png?itok=w7zB9vuE" height="50" /> |
+| __main__ | Java | <img src="https://freepngimg.com/download/java/3-2-java-free-download-png.png" height="50"/> | Spring | <img src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" height="50" /> | GIT | <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/git-icon.png?itok=w7zB9vuE" height="50" /> |
 | __additional__ | React.js | <img src="https://miro.medium.com/fit/c/184/184/1*K0a7xINk0RM5gfXGSN68cw.png" height="50" /> | C++ | <img src="https://piyotr.com/images/svg/cpp_icon.svg" height="50" /> | Python | <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" width="50" /> |
 |     |    |    |    |    |    |    |
 
