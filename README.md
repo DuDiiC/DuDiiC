@@ -13,7 +13,7 @@ I am interested in further development in this field and practical learning. I b
 
 Currently, the 7th semester at the University of Nicholas Copernicus University in Toruń, majoring in computer science. Many of the repositories show my work in college.
 
-I am working on an engineering thesis on predicting the future of projects on the GitHub platform. Repo is [here](https://github.com/DuDiiC/engineering-work).
+I am working on an engineering thesis on predicting the future of projects on the GitHub platform. Repository can be found [here](https://github.com/DuDiiC/engineering-work).
 
 ### My technologies:  
 
@@ -25,7 +25,7 @@ I am working on an engineering thesis on predicting the future of projects on th
 
 ## Most important projects:
 
-### Tutio - online tuting platform
+### Tutio - online tutoring platform
 Tutio is a comprehensive platform for organizing online tutoring, including video calling, screen sharing and payment system for classes.  
 In this project, I was responsible for creating the server, API and the visual part of the front-end of the application.  
 You can see full presentation (in Polish) [here](https://www.youtube.com/watch?v=K2OD6eTyO0c&feature=emb_title).
