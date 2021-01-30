@@ -1,7 +1,7 @@
 # Maciej Dudek
 ### 💻 Java/Back-end developer | 🎓 UMK student | ⭐ programming enthusiast
 
-[![DuDiiC's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuDiiC&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
+[![DuDiiC's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuDiiC&layout=compact&exclude_repo=engineering-work&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
 
 #### Programmer
 
