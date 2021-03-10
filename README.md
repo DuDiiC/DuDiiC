@@ -1,27 +1,21 @@
 # Maciej Dudek
 ### 💻 Java/Back-end developer | 🎓 UMK student | ⭐ programming enthusiast
 
-[![DuDiiC's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuDiiC&layout=compact&exclude_repo=engineering-work&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
+[![DuDiiC's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuDiiC&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) ![DuDiiC's github stats](https://github-readme-stats.vercel.app/api?username=DuDiiC&count_private=true&show_icons=true&hide=contribs,prs)
 
 #### Programmer
 
-I started my adventure with programming about half a year earlier than my studies. Since then, I have been developing my skills, especially in technologies related to Java, Spring and OOP in general, but I tried many other technologies too. I started with C ++, but during my studies I also got to know C and Python. In addition to typical back-end applications, I also tried programming for the android platform in Java and React.js on the front-end. 
-
-I am interested in further development in this field and practical learning. I belive that programming, clean code writing and logical thinking are technology-independent skills. 
+Description in progress...
 
 #### Student
 
-Currently, the 7th semester at the University of Nicholas Copernicus University in Toruń, majoring in computer science. Many of the repositories show my work in college.
+Description in progress...
 
-I am working on an engineering thesis on predicting the future of projects on the GitHub platform. Repository can be found [here](https://github.com/DuDiiC/engineering-work).
+### Main technologies:  
 
-### My technologies:  
-
-|     |    |    |    |    |    |    |
-|:---:|:--:|:--:|:--:|:--:|:--:|:--:|
-| __main__ | Java | <img src="https://freepngimg.com/download/java/3-2-java-free-download-png.png" height="50"/> | Spring | <img src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" height="50" /> | GIT | <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/git-icon.png?itok=w7zB9vuE" height="50" /> |
-| __additional__ | React.js | <img src="https://miro.medium.com/fit/c/184/184/1*K0a7xINk0RM5gfXGSN68cw.png" height="50" /> | C++ | <img src="https://piyotr.com/images/svg/cpp_icon.svg" height="50" /> | Python | <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" width="50" /> |
-|     |    |    |    |    |    |    |
+|    |    |    |    |    |    |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Java | <img src="https://freepngimg.com/download/java/3-2-java-free-download-png.png" height="50"/> | Spring Platform | <img src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" height="50" /> | GIT | <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/git-icon.png?itok=w7zB9vuE" height="50" /> |
 
 ## Most important projects:
 
@@ -32,10 +26,9 @@ You can see full presentation (in Polish) [here](https://www.youtube.com/watch?v
 
 ### Web notes
 A small project, presenting my skills in programming in Java and Spring.  
-More details in the repositories: [back-end](https://github.com/DuDiiC/web-notes) and [front-end](https://github.com/DuDiiC/web-notes-front).
+More details in the [serwerr repository](https://github.com/DuDiiC/web-notes).
 
 You can also find me on other sites:
 
 [<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" width="30" height="30">](https://www.linkedin.com/in/maciejdudek96/)
-[<img src="https://www.freepngimg.com/download/facebook/64896-media-computer-icons-logo-of-embassy-facebook.png" width="30" height="30">](https://www.facebook.com/DuDiiCc/)
 [<img src="https://i.stack.imgur.com/CE5lz.png" width="30" height="30">](https://stackoverflow.com/users/8653765/m-dudek)
