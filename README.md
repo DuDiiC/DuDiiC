@@ -2,14 +2,14 @@
   <h1 align="center">Maciej Dudek</h1>
   <h2 align="center">💻 Java/Back-end developer | 🎓 UMK student | ⭐ programming enthusiast</h2>
   <p align="center">
-    <a href="mailto:Maciej.Dudek.DEV+GH_contact@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+    <a href="mailto:Maciej.Dudek.DEV+GH@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Maciej.Dudek.DEV@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" />
     </a>
     <a href="https://stackoverflow.com/users/8653765/">
-        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"/>
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/-DuDiiC-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/maciejdudek96/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"/>
+        <img alt="LinkedIn" src="https://img.shields.io/badge/maciejdudek96-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"/>
     </a>
   </p>
   <!-- <p align="center">
