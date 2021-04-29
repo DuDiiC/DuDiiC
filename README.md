@@ -2,9 +2,6 @@
   <h1 align="center">Maciej Dudek</h1>
   <h2 align="center">💻 Java/Back-end developer | 🎓 UMK student | ⭐ programming enthusiast</h2>
   <p align="center">
-    <a href="mailto:Maciej.Dudek.DEV+GH@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Maciej.Dudek.DEV@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" />
-    </a>
     <a href="https://stackoverflow.com/users/8653765/">
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-DuDiiC-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"/>
     </a>
@@ -12,11 +9,14 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/maciejdudek96-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"/>
     </a>
   </p>
-  <!-- <p align="center">
-    <a href="https://www.codewars.com/users/DuDiiC/">
-        <img alt="CodeWars" src="https://www.codewars.com/users/DuDiiC/badges/small"/>
+  <p align="center">
+    <a href="mailto:Maciej.Dudek.DEV+GH@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Maciej.Dudek.DEV@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" />
     </a>
-  </p> -->
+    <!-- <a href="https://www.codewars.com/users/DuDiiC/">
+        <img alt="CodeWars" src="https://www.codewars.com/users/DuDiiC/badges/small"/>
+    </a> -->
+  </p>
   <h4 align="center">Programmer</h4>
   <p align="center">description in progress...</p>
   <h4 align="center">Student</h4>
