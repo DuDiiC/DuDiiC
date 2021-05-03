@@ -31,6 +31,9 @@
   <p>I graduated Bachelor Degree studies in computer science at the <a href="https://www.mat.umk.pl/en/web/en/home">Nicolaus Copernicus University</a> with thesis about <a href="https://github.com/DuDiiC/engineering-thesis">prediction of the popularity of open source projects on the GitHub</a>. After that I started Master's at the same faculty. I am currently working on my master's thesis on Domain-Driven Design.</p>
 </p>
 
+<br>
+<br>
+
 <h3 align="center">I know and use regularly</h3>
 
 | | | | |
@@ -40,18 +43,23 @@
 | <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/><br>**Git**<br>SVN | I use version control systems every time I write code. I understand the advantages of a distributed systems like Git because I also work with Subversion. | <img alt="InteliiJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="30" height="30"/><br> **InteliiJ IDEA** | JetBrains IDEs are my favorites tools to their efficiency, ease of use and comfort of work. Not only for Java, but also for C/C++ and Python. |
 | | | |
 
+<br>
+
 <h3 align="center">I know basics</h3>
 
 | | |
 | :---: | :--- |
-| JUnit5, AssertJ, Mockito | description in progress... |
-| JavaFX, Java EE | description in progress... |
-| Python3, Pandas, sklearn | description in progress... |
-| HTML, CSS, JavaScript, React | description in progress... |
-| C, C++, Qt | description in progress... |
-| Docker | description in progress... |
+| JUnit5, AssertJ, Mockito | I work with these libraries to create unit and integration tests on my projects. I use TDD from time to time. |
+| JavaFX, Java EE | I know the basics of JavaFX from my [student project](https://github.com/DuDiiC/swimming-contests-manager-client-app) and I use Java EE at work. |
+| Python3, Pandas, sklearn | I work a lot with python at university, mostly with machine learning and data analysis libraries. I also wrote an [engineering thesis](https://github.com/DuDiiC/engineering-thesis) in Python. |
+| C, C++, Qt | I worked with these technologies in classes related to algorithmics and [computer graphics](https://github.com/DuDiiC/studies-4th-semester-graphics). C ++ was the first language I started learning programming with. |
+| HTML, CSS, JavaScript, React.js | I learned the basics of web technologies by creating two projects - a simple [front to my notes app](https://github.com/DuDiiC/web-notes-front) and working on the [Tutio](https://www.youtube.com/watch?v=K2OD6eTyO0c&feature=emb_title) team project at university. |
+| Docker | Containerization is a very interesting topic that I am currently exploring and starting to implement in my projects. |
+| | |
 
-## Most important projects:
+<br>
+
+<h3 align="center">Most important projects</h3>
 
 #### Scheduler
 
