@@ -6,21 +6,21 @@
     <a href="https://stackoverflow.com/users/8653765/">
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-DuDiiC-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"/>
     </a>
+    <a href="mailto:Maciej.Dudek.DEV+GH@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Maciej.Dudek.DEV@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/maciejdudek96/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/maciejdudek96-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 
-  <p align="center">
-    <a href="mailto:Maciej.Dudek.DEV+GH@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Maciej.Dudek.DEV@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" />
-    </a>
-    <!-- <a href="https://www.codewars.com/users/DuDiiC/">
+<!--   <p align="center">
+    <a href="https://www.codewars.com/users/DuDiiC/">
         <img alt="CodeWars" src="https://www.codewars.com/users/DuDiiC/badges/small"/>
-    </a> -->
+    </a>
   </p>
 
-  <br>
+  <br> -->
   <br>
 
   <h4 align="center">Programmer</h4>
@@ -38,9 +38,9 @@
 
 | | | | |
 | :---: | :--- | :---: | :--- |
-| <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>**Java**<br>JDK 16 | Java is my main programming language, in which I regularly work and create projects since 2018. I am up to date with changes in Java, including the latest versions of the JDK. | <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"/><br>**Spring Platform** | After learning the basics of Java, the next step for me was to develop skills correlated with Spring Platform. In many projects, I mainly used Spring projects such as: Spring Boot, Spring Framework, Spring Data and Spring Security. |
-| <img alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30"/><br>**JPA**<br>**Hibernate**<br>EclipseLink | I regularly use Hibernate mainly as a JPA provider for Spring, I also had contact with EclipseLink | <img alt="Databases" src="https://i.dlpng.com/static/png/6479833_preview.png" width="30" height="30"/><br>**Relational databases**<br>+ SQL | I use SQL in practice and have had contact with most of the largest relational DBSMs: Oracle, MS SQL Server, PostgreSQL and MySQL, but I have the most experience with the first two. In addition, I am familiar with Flyway and Liquibase. |
-| <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/><br>**Git**<br>SVN | I use version control systems every time I write code. I understand the advantages of a distributed systems like Git because I also work with Subversion. | <img alt="InteliiJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="30" height="30"/><br> **InteliiJ IDEA** | JetBrains IDEs are my favorites tools to their efficiency, ease of use and comfort of work. Not only for Java, but also for C/C++ and Python. |
+| <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>**Java**<br>JDK 16 | Java is my main programming language, in which I regularly work and create projects since 2018. I am up to date with changes in Java, including the latest versions of the JDK. | <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"/><br>**Spring Platform** | After learning the basics of Java, the next step for me was to develop skills correlated with Spring Platform. In many projects, I mainly used Spring projects such as: **Spring Boot, Spring Framework, Spring Data and Spring Security**. |
+| <img alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30"/><br>**JPA**,<br>**Hibernate**,<br>EclipseLink | I regularly use Hibernate mainly as a JPA provider for Spring, I also had contact with EclipseLink | <img alt="Databases" src="https://i.dlpng.com/static/png/6479833_preview.png" width="30" height="30"/><br>**Relational databases**<br>+ SQL | I use SQL in practice and have had contact with most of the largest relational DBSMs: Oracle, MS SQL Server, PostgreSQL and MySQL, but I have the most experience with the first two. In addition, I am familiar with Flyway and Liquibase. |
+| <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/><br>**Git**,<br>SVN | I use version control systems every time I write code. I understand the advantages of a distributed systems like Git because I also work with Subversion. | <img alt="InteliiJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="30" height="30"/><br> **InteliiJ IDEA** | JetBrains IDEs are my favorites tools to their efficiency, ease of use and comfort of work. Not only for Java, but also for C/C++ and Python. |
 | | | |
 
 <br>
