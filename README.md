@@ -24,7 +24,7 @@
   <br>
 
   <h4 align="center">Programmer</h4>
-  <p>I am working as a Java Developer for <a href="https://www.nmg.pl/en">NMG S.A.</a> In addition, I develop my skills, mainly related to <b>Spring Platform</b> and <b>Hibernate</b>.</p>
+  <p>I am working as a Java Developer for <a href="https://bluesoft.com/">BlueSoft</a> In addition, I develop my skills, mainly related to <b>Spring Platform</b> and <b>Hibernate</b>.</p>
   <p>I focus on good programming practices and writing clean code. I believe these are the most important skills of a developer, regardless of the technology. My approach to programming can be briefly described with a quote from one of Uncle Bob's presentations:</p>
   <p align="right"><em>"You are not done when it works, you are done when it's right."</em></p>
 
