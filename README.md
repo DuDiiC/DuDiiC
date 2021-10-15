@@ -23,39 +23,52 @@
   <br> -->
   <br>
 
-  <h4 align="center">Programmer</h4>
-  <p>I am working as a Java Developer for <a href="https://bluesoft.com/">BlueSoft</a> In addition, I develop my skills, mainly related to <b>Spring Platform</b> and <b>Hibernate</b>.</p>
-  <p>I focus on good programming practices and writing clean code. I believe these are the most important skills of a developer, regardless of the technology. My approach to programming can be briefly described with a quote from one of Uncle Bob's presentations:</p>
-  <p align="right"><em>"You are not done when it works, you are done when it's right."</em></p>
+<h3 align="center">Core technology stack</h3>
 
-  <h4 align="center">Student</h4>
-  <p>I graduated Bachelor Degree studies in computer science at the <a href="https://www.mat.umk.pl/en/web/en/home">Nicolaus Copernicus University</a> with thesis about <a href="https://github.com/DuDiiC/engineering-thesis">prediction of the popularity of open source projects on the GitHub</a>. After that I started Master's at the same faculty. I am currently working on my master's thesis related to <b>Domain-Driven Design.</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.gif" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50"/>
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_7f0d1d11d195d5c256f4781071e32a44/liquibase.png" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="50"/>
+</p>
+
+<h3 align="center">Familiar with</h3>
+
+<p align="center">
+  <img src="https://static.wixstatic.com/media/2724b2_a4c660815dde4271be00cb7e9b9cae2c~mv2.png/v1/fit/w_605%2Ch_533%2Cal_c/file.png" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg/1200px-Jakarta_ee_logo_schooner_color_stacked_default.svg.png"height="50"/>
+  <img src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://download.logo.wine/logo/Apache_Subversion/Apache_Subversion-Logo.wine.png" height="50"/>
 </p>
 
 <br>
 
-<h3 align="center">My core tech-stack</h3>
+<h3 align="center">Programmer</h3>
+  <p align="center"><img src="https://scontent-frt3-1.xx.fbcdn.net/v/t1.6435-9/96109817_4179160172094907_3730564380912254976_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dzPzOaxxvfwAX_UwbpQ&_nc_ht=scontent-frt3-1.xx&oh=742e207c512889feba311213380eedef&oe=618EAB19" height="100" /></p>
+  <p>I am working as a Java Developer for <a href="https://bluesoft.com/">BlueSoft</a>.
+  <p>I focus on good programming practices and writing clean code. I believe these are the most important skills of a developer, regardless of the technology. My approach to programming can be briefly described with a quote from one of Uncle Bob's presentations:</p>
+  <p align="right"><em>"You are not done when it works, you are done when it's right."</em></p>
 
-| | | | |
-| :---: | :--- | :---: | :--- |
-| <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>**Java** | Java is my main programming language, in which I regularly work and create projects since 2018. I am up to date with changes in Java, including the latest versions of the JDK. | <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"/><br>**Spring Platform** | After learning the basics of Java, the next step for me was to develop skills correlated with Spring Platform. In many projects, I mainly used Spring projects such as: **Spring Boot, Spring Framework, Spring Data and Spring Security**. |
-| <img alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30"/><br>**JPA**,<br>**Hibernate**,<br>EclipseLink | I regularly use Hibernate mainly as a JPA provider for Spring, I also had contact with EclipseLink. | <img alt="Databases" src="https://i.dlpng.com/static/png/6479833_preview.png" width="30" height="30"/><br>**Relational databases**<br>+ SQL | I use SQL in practice and have had contact with most of the largest relational DBSMs: Oracle, MS SQL Server, PostgreSQL and MySQL, but I have the most experience with the first two. In addition, I am familiar with Flyway and Liquibase. |
-| <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/><br>**Git**,<br>SVN | I use version control systems every time I write code. I understand the advantages of a distributed systems like Git because I also work with Subversion. | <img alt="InteliiJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="30" height="30"/><br> **InteliiJ IDEA** | JetBrains IDEs are my favorites tools to their efficiency, ease of use and comfort of work. Not only for Java, but also for C/C++ and Python. |
-| | | |
-
-<br>
-
-<h3 align="center">I know basics</h3>
-
-| | |
-| :---: | :--- |
-| JUnit5, AssertJ, Mockito | I work with these libraries to create unit and integration tests on my projects. I use TDD from time to time. |
-| JavaFX, Java EE | I know the basics of JavaFX from my [student project](https://github.com/DuDiiC/swimming-contests-manager-client-app) and I use Java EE at work. |
-| Python3, Pandas, sklearn | I work a lot with python at university, mostly with machine learning and data analysis libraries. I also wrote an [engineering thesis](https://github.com/DuDiiC/engineering-thesis) in Python. |
-| C, C++, Qt | I worked with these technologies in classes related to algorithmics and [computer graphics](https://github.com/DuDiiC/studies-4th-semester-graphics). C ++ was the first language I started learning programming with. |
-| HTML, CSS, JavaScript, React.js | I learned the basics of web technologies by creating two projects - a simple [front to my notes app](https://github.com/DuDiiC/web-notes-front) and working on the [Tutio](https://www.youtube.com/watch?v=K2OD6eTyO0c&feature=emb_title) team project at university. |
-| Docker | Containerization is a very interesting topic that I am currently exploring and starting to implement in my projects. |
-| | |
+  <h3 align="center">Student</h3>
+  <p align="center"><img src="https://www.mat.umk.pl/WMiI-eng/m/wmii_eng.png" height="100" /></p>
+  <p>I graduated Bachelor Degree studies in computer science at the <a href="https://www.mat.umk.pl/en/web/en/home">Nicolaus Copernicus University</a> with thesis about <a href="https://github.com/DuDiiC/engineering-thesis">prediction of the popularity of open source projects on the GitHub</a>. After that I started Master's at the same faculty. I am currently working on my master's thesis related to <b>Domain-Driven Design.</b></p>
+</p>
 
 <br>
 
@@ -73,8 +86,8 @@ More details in the [server repository](https://github.com/DuDiiC/web-notes).
 
 #### Tutio - online tutoring platform
 
-Developed a platform for organizing online tutoring, featuring video calls, screen sharing, real-time text chat, and a~payment system. 
-The server is implemented in \textbf{Java} and \textbf{Spring}, and uses REST API for data sharing. The web app utilizes React.js and Peer.js. 
+Developed a platform for organizing online tutoring, featuring video calls, screen sharing, real-time text chat, and a payment system. 
+The server is implemented in **Java** and **Spring**, and uses REST API for data sharing. The web app utilizes React.js and Peer.js. 
 The application was created in a team of 6 people.
 Main tasks: architecture design, server management and REST API.
 
