@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">💻 Java/Back-end developer | 🎓 UMK student | ⭐ programming enthusiast</h2>
+  <h2 align="center">💻 Java/Back-end developer at BlueSoft | ⭐ programming enthusiast</h2>
 
   <p align="center">
     <a href="https://stackoverflow.com/users/8653765/">
@@ -34,13 +34,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="50"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Programmer</h3>
-<p>I am working as a Java Developer for <a href="https://bluesoft.com/">BlueSoft</a>.
-<p>I focus on good programming practices and writing clean code. I believe these are the most important skills of a developer, regardless of the technology.</p>
+<h3 align="center">About me</h3>
 
-<h3 align="center">Student</h3>
-<p>I graduated Bachelor Degree studies in computer science at the <a href="https://www.mat.umk.pl/en/web/en/home">Nicolaus Copernicus University</a> with thesis about <a href="https://github.com/DuDiiC/engineering-thesis">prediction of the popularity of open source projects on the GitHub</a>. After that I started Master's at the same faculty. I am currently working on my master's thesis related to <b>Domain-Driven Design.</b></p>
-</p>
+2+ years of experience as a Java Developer.
+
+I've mostly worked with the Spring platform, most of the popular DBMS (particularly PostgreSQL), and Kafka. I place a strong emphasis on collaboration and ongoing technical skill growth.
+I've developed solutions for customers in the logistics and energy industries.
 
 ---
 
