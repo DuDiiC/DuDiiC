@@ -39,6 +39,7 @@
 2+ years of experience as a Java Developer.
 
 I've mostly worked with the <b>Spring platform</b>, most of the popular DBMS (particularly <b>PostgreSQL</b>), and <b>Kafka</b>. I place a strong emphasis on collaboration and ongoing technical skill growth.
+
 I've developed solutions for customers in the logistics and energy industries.
 
 ---
