@@ -11,7 +11,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="50"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-2+ years of experience as a Java Developer.
+3+ years of experience as a Java Developer.
 
 I've mostly worked with the <b>Spring platform</b>, most of the popular DBMS (particularly <b>PostgreSQL</b>), and <b>Kafka</b>. I place a strong emphasis on collaboration and ongoing technical skill growth.
 
